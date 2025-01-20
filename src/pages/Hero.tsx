@@ -11,7 +11,7 @@ const Hero = () => {
         <Image src="/image.jpg"alt="my-pic" width={600} height={600} className=" flex justify-center"></Image>
         <div className='text-center text-[100px] sm:text-[130px] font-bold leading-tight flex justify-center items-center'>
         
-        <p data-aos="zoom-in-up">I'm Ayesha Khan</p>
+        <p data-aos="zoom-in-up">I m Ayesha Khan</p>
         
         </div>
         {/* <div className=' container grid lg:grid-cols-2 h-[calc(100vh-60px)]'>
