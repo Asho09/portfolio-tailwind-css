@@ -37,7 +37,7 @@ export default function Home() {
           <div className=' text-5xl text-bold font-medium pl-10px'>AYESHA</div>
           <ul className=' flex justify-end mr-5px text-3xl gap-10 lg:gap-10 '>
             <li className='menuLink'><a href="/">Home</a></li>
-            <li className='menuLink'><Link href="/acbout">About</Link></li>
+            <li className='menuLink'><Link href="/accd mtbout">About</Link></li>
             {/* <li className='menuLink'><a href="/Skills">Skills</a></li> */}
             <li className='menuLink'><Link href="/Skills">Skills</Link></li>
             <li className='menuLink'><Link href="/Contact">Contact</Link></li>
